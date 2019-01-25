@@ -1,0 +1,25 @@
+.thumbnail img
+{
+	width: 100%;
+}
+
+.thumbnail
+{
+	padding: 0;
+}
+
+#indexpage
+{
+	box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+	border-radius: 15px;
+}
+#cpimg
+{
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+}
+
+.thumbnail .caption-full
+{
+	padding: 9px;
+}
